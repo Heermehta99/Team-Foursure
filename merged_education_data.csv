@@ -1,0 +1,7 @@
+Country,Year,Literacy_Rate,Region_x,Enrollment_Rate,Level,Region_y,Education_Spending (Billion USD),Region
+USA,2000,99.0,North America,95,Primary,North America,400,North America
+USA,2010,99.1,North America,96,Primary,North America,600,North America
+India,2000,61.0,Asia,80,Primary,Asia,50,Asia
+India,2010,74.0,Asia,85,Primary,Asia,100,Asia
+Kenya,2000,75.0,Africa,65,Primary,Africa,10,Africa
+Kenya,2010,78.5,Africa,70,Primary,Africa,15,Africa
